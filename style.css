@@ -12,7 +12,7 @@ Body {
   flex-wrap:wrap;
 }
 .Header h1{
-  front-weight:normal;
+  font-weight:normal;
   font-size:4rem;
   margin: 0;
 }
@@ -53,7 +53,7 @@ Body {
 .Nav {
   list-style: none;
   margin: 0;
-  peadding: 0;
+  padding: 0;
   display: flex;
 }
 
@@ -119,6 +119,6 @@ Body {
 }
 
 .footer pf2{
-  marging:20px;
+  margin:20px;
   padding:20px 0;
 }
