@@ -6,7 +6,7 @@ Body {
 .Header {
   padding: 0 20px;
   /* background-color: #3e3a42;  */
-  background-image:url(Images/H8ZSGu.jpg);
+  background-image:url(Images/Electronics-passionate-Read-this-now.jpg);
   background-position: center center;
   background-size: cover;
   color: rgb(212, 209, 214);
@@ -28,8 +28,17 @@ Body {
      font-family: 'Zilla Slab', serif; */
 }
 
+.icon{
+  color:white;
+  text-decoration:none;
+  padding:5px 5px;
+  background-color:#364249d3;
+  display:inline-block;
+  border-radius:8px;
+  font-size: 1.8rem;
+}
 .Header ul{
-  font-family: 'Vollkorn', sans-serif;
+  font-family: 'Zilla Slab', serif;
 }
 
 .Welcome p{
@@ -42,11 +51,10 @@ Body {
   color:white;
   text-decoration:none;
   padding:12px 20px;
-  background-color:#3949ab;
+  background-color:#0f1433e0;
   display:inline-block;
   border-radius:8px;
   font-size: 1.18rem;
-  
 }
 
 .Nav a {
@@ -73,7 +81,8 @@ Body {
 }
 
 .Welcome {
-  background-color: #c5cae9;
+  color: #fff;
+  background-color: #292929;
   padding: 50px 45px;
   display: flex;
   justify-content: center;
@@ -114,9 +123,7 @@ Body {
 .footer{
   background-color:#080a0a;
   color:#FFF;
-  text-align:center;
-  
-  
+  text-align:center;  
 }
 
 .footer pf1{
