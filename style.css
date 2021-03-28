@@ -83,8 +83,8 @@ Body {
 
 .Welcome {
   color: rgb(2, 2, 2);
-  /* background-color: #ffffff; */
-  background-image: url(Logo/Logo-Original_LightMode.jpg);
+  background-color: #ffffff;
+  background-image: url(Logo/Logo-Darker_DarkMode-transparent.png);
   background-repeat: no-repeat;
   background-position: center;
   justify-content: center;
