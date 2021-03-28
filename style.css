@@ -1,14 +1,15 @@
 Body {
   margin: 0;
   font-family: "Source sans pro", sans-serif;
-  background-image:url(GitHub/My_example_WebPage/My_example_WebPage/Images/Universitas-Jurusan-Elektro.jpg);
-  background-position: center center;
-  background-size: 100% 100%;
+
 }
 .Header {
   padding: 0 20px;
-  background-color: #3e3a42;
-  color: #fff;
+  /* background-color: #3e3a42;  */
+  background-image:url(Images/H8ZSGu.jpg);
+  background-position: center center;
+  background-size: cover;
+  color: rgb(212, 209, 214);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -16,8 +17,19 @@ Body {
 }
 .Header h1{
   font-weight:normal;
-  font-size:4rem;
+  font-size:2rem;
   margin: 0;
+  font-family: 'Vollkorn', sans-serif;
+  font-display: initial;
+  /* FONT USAGE
+     font-family: 'Syne Mono', monospace;
+     font-family: 'Train One', cursive;
+     font-family: 'Vollkorn', serif;
+     font-family: 'Zilla Slab', serif; */
+}
+
+.Header ul{
+  font-family: 'Vollkorn', sans-serif;
 }
 
 .Welcome p{
