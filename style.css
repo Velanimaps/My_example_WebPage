@@ -1,6 +1,9 @@
 Body {
   margin: 0;
   font-family: "Source sans pro", sans-serif;
+  background-image: url("file:///C:/Users/VELANI/Documents/GitHub/My_example_WebPage/My_example_WebPage/Images/Universitas-Jurusan-Elektro.jpg");
+  background-position: center center;
+  background-size: 100% 100%;
 }
 .Header {
   padding: 0 20px;
