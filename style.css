@@ -83,17 +83,21 @@ Body {
 
 .Welcome {
   color: rgb(2, 2, 2);
-  /* background-color: #292929; */
-  background-image: url(Logo/Logo-SVG\ format.svg);
+  /* background-color: #ffffff; */
+  background-image: url(Logo/Logo-Original_LightMode.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
-  padding: 10px 45px 10px 45px;
-  display: flex;
+  background-position: center;
   justify-content: center;
+  display: flex;
+  height: 300px;
+  
 }
 
 .Welcome-inner {
-  max-width: 450px;
+  padding-top: 150px;
+  justify-self: self-end;
+  /* padding-top: 205px; */
+   max-width: 450px;
 }
 
 .Body{
