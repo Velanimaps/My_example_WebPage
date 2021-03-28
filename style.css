@@ -42,6 +42,7 @@ Body {
 }
 
 .Welcome p{
+  padding: 10px 130px;
   font-size:1.18rem;
   line-height:1.4;
   
@@ -81,9 +82,12 @@ Body {
 }
 
 .Welcome {
-  color: #fff;
-  background-color: #292929;
-  padding: 50px 45px;
+  color: rgb(2, 2, 2);
+  /* background-color: #292929; */
+  background-image: url(Logo/Logo-SVG\ format.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px 45px 10px 45px;
   display: flex;
   justify-content: center;
 }
