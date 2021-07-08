@@ -110,7 +110,7 @@ Body {
   margin:0 auto; 
   display:grid;
   grid-template-columns: repeat(auto-fit ,minmax(500px,1fr));
-  grid-column-gap:40px;
+  grid-column-gap:20px;
   grid-row-gap:10px;
   
 }
