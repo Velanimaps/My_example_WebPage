@@ -110,17 +110,31 @@ Body {
   margin:0 auto; 
   display:grid;
   grid-template-columns: repeat(auto-fit ,minmax(500px,1fr));
-  grid-column-gap:20px;
+  grid-column-gap:10px;
   grid-row-gap:10px;
+  background-image: url(images/equation\ sheeet.jpg);
+
   
 }
 
 .features-item h2{
+  max-width:500px;
+  
   color: #4585a3;
   font-size:1.18rem;
   margin:0;
  
 }
+
+.features-item img{
+  max-width:500px;
+  max-height: 500px; 
+  display:grid;
+  grid-template-columns:  repeat(auto-fit ,minmax(500px,1fr));
+
+}
+
+
 
 .features-item p{
   color:#333;
