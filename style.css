@@ -119,8 +119,8 @@ Body {
 
 .features-item h2{
   max-width:500px;
-  
-  color: #4585a3;
+  background-color: #000000;
+  color:rgb(12, 209, 12);
   font-size:1.18rem;
   margin:0;
  
@@ -153,15 +153,13 @@ Body {
   padding:0;
   color:#5f6363;
   font-size: small;
-  
-  
+    
 }
 
 .footer h4{
   margin:2px;
   padding:10px;
-  
-  
+    
 }
 
 .footer pf2{
@@ -171,4 +169,9 @@ Body {
 
 .email a{
 color:#5f6363;
+}
+
+.svg{
+  fill:url(#myGradient);
+  fill-rule: nonzero;
 }
